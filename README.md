@@ -1,8 +1,8 @@
-Tech I use:
+Technology:
 
-React.js
-Youtube API
-Webpack
-Babel
-Bootsrtap
-Lodash
+- React.js
+- Youtube API
+- Webpack
+- Babel
+- Bootsrtap
+- Lodash
